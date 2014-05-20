@@ -1,0 +1,44 @@
+/* line 2, ../sass/reset.scss */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form,
+fieldset, input, textarea, p, blockquote, th, td {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 7, ../sass/reset.scss */
+html {
+  overflow-y: scroll;
+}
+
+/* line 11, ../sass/reset.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+/* line 16, ../sass/reset.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 19, ../sass/reset.scss */
+fieldset, img {
+  border: 0;
+}
+
+/* line 23, ../sass/reset.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../sass/reset.scss */
+caption, th {
+  text-align: left;
+}
+
+/* line 32, ../sass/reset.scss */
+address, caption, cite, code, dfn, em, strong, th, var {
+  font-style: normal;
+  font-weight: normal;
+}
